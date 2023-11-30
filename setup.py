@@ -16,5 +16,5 @@ setup(
         'pandas-datareader>=0.7.0',
         'seaborn>=0.11.0',
         'statsmodels>=0.11.1',
-    ],
+    ]
 )
